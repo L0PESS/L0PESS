@@ -1,5 +1,5 @@
 ### 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!+My+name+is+Leandro+Ferreira;I+am+graduating+in+Internet+Systems;Welcome+to+my+profile+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?center=true&width=1000&size=30&lines=Hello!+My+name+is+Leandro+Ferreira;I+am+graduating+in+Internet+Systems;Welcome+to+my+profile+!)](https://git.io/typing-svg)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/xx_lopess/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/leandro-ferreira-50b0a9245/) 
 
@@ -8,15 +8,10 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=L0PESS&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)
 
-
-
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=L0PESS&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layou&hide_progress=true)
-  
-<div display="flex" align-items="flex-start" height="100%">
-   
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=L0PESS&theme=transparent&hide_border=false)
-</div>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=L0PESS&theme=transparent&hide_border=false)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=L0PESS&icon=0&color=0)](https://visitcount.itsvg.in)
